@@ -19,4 +19,5 @@ const numeroAleatorio = function() {
 
 numeroAleatorio();
 numeroAleatorio();
+numeroAleatorio();
 
