@@ -4,6 +4,8 @@ function potencia(base, exp=2) {
 
 console.log(potencia(2));
 
+console.log(potencia(8));
+
 console.log(potencia(2,2));
 
 console.log(potencia(2,3));
