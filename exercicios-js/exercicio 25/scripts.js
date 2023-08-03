@@ -7,5 +7,5 @@ function imprimePar(num) {
 }
 
 imprimePar(15);
-imprimePar(45);
-imprimePar(37);
+imprimePar(20);
+imprimePar(25);
