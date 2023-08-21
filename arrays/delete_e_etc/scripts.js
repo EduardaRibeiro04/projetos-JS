@@ -1,19 +1,21 @@
-let pessoa = {
-    nome: "duda",
+let duda = {
+    nome: 'duda',
     idade: 19,
-    profissao: "programador",
+    cabelo: 'castanho',
+    compromisso: 'solteira'
 }
 
-console.log(pessoa.nome);
+console.log(duda.nome);
+console.log(duda.idade);
+console.log(duda.cabelo);
+console.log(duda.compromisso);
 
-delete pessoa.nome;
+delete duda.compromisso;
 
-console.log(pessoa.nome);
+console.log(duda.compromisso);
 
-console.log(pessoa);
+duda.compromisso = 'agora está namorando';
 
-pessoa.casado = true;
+console.log(duda.compromisso);
 
-console.log(pessoa.casado);
-
-console.log(pessoa);
+//2 exeplos de como deletar e adicionar 

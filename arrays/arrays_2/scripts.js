@@ -8,3 +8,6 @@ console.log(arr[1]);
 console.log(nomes[0]);
 console.log(bool[2]);
 console.log(arr[arr.length - 1]);
+
+
+//console.log(arr[arr.length - 1]); para ver o ultimo elemnto do array, não precisa vc necessariamente saber qual é

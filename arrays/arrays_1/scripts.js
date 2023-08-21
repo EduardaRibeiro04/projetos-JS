@@ -1,3 +1,4 @@
+
 let arr = [1,2,3,4,5];
 let nomes = ['duda', 'douglas', 'sophia'];
 let bool = [true, false, true];
@@ -8,3 +9,4 @@ console.log(arr);
 console.log(nomes);
 console.log(bool);
 console.log(misturado);
+
